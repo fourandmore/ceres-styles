@@ -84,7 +84,7 @@ $gray-lightest:         #f7f7f9;
 $white:                 #fff;
 $black:                 #000;
 
-$brand-primary:         #57b58a;
+$brand-primary:         #ff0000;
 $brand-secondary:       #d4021d;
 
 $brand-success:         #7ED321;
@@ -101,10 +101,10 @@ $top-bar-color:         $gray-lighter;
 $top-bar-basket-btn:    $brand-primary;
 $top-bar-basket-color:  #fff;
 
-$footer-bg:             #ff0000;
+$footer-bg:             $gray-dark;
 $footer-color:          $white;
 
-$footer-features-bg:    #ff0000;
+$footer-features-bg:    $gray-dark;
 $footer-features-color: $white;
 
 $availability_1:        $brand-success;
